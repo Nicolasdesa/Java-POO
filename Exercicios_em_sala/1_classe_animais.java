@@ -1,3 +1,6 @@
+// Objetivo: criar e manipular uma classe Animais que represente as características e comportamentos
+// básicos de um animal.
+
 public class Animal{
     private String nome;
     private String tipo;
