@@ -1,0 +1,19 @@
+// Enunciado: Você foi contratado para criar um sistema que gerencie os alunos de uma escola. O sistema
+// deve ser capaz de adicionar alunos, limitando a quantidade com base na capacidade fornecida, e mostrar
+//todos os alunos cadastrados. Implemente o sistema usando duas classes: Aluno e Escola.
+
+public class Aluno {
+    private String nome;
+    private int idade;
+    private void mostrarInfo(){
+        System.out.println("Nome:" + nome);
+        System.out.println("Idade:" + idade);
+    }
+    private class Classe {
+
+    }
+}
+
+class Classe {
+
+}
